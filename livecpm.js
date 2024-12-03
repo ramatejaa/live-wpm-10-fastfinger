@@ -1,4 +1,3 @@
-
 var capitals = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var finalCPM = 0;
 var realWPM = 0;
